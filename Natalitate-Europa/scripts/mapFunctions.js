@@ -2,17 +2,12 @@
  * Created by Cristina on 12/30/14.
  */
 var map;
-var colorZair = [255,0,0,0.5];
-var colorReston = [255, 255, 0, 0.75];
-var colorSudan = [255, 165, 0, 0.75];
-var colorTai = [0, 128, 0, 0.75];
-var colorBundibugyo = [39, 46, 128, 0.75];
 
 var graphicArray = [];
-var plotJson = {};
-var plotJsonDeaths = {};
-var plotJsonCases = {};
+var plotJsonNatality = {};
 var yearsArray = [];
+
+var yearStart = 1965;
 
 function initMap() {
     require([
@@ -40,7 +35,8 @@ function initMap() {
         "dojox/charting/action2d/MoveSlice",
         "dojox/charting/action2d/Tooltip",
         "dojo/number",
-        "dojox/charting/themes/Wetland",
+//"dojox/charting/themes/Wetland",
+        "dojox/charting/themes/Harmony",
         "dojox/charting/widget/Legend",
         "dojo/domReady!"
     ], function(
@@ -74,8 +70,6 @@ function initMap() {
         var infoWindow = new InfoWindow(null, domConstruct.create("div"));
         infoWindow.startup();
 
-
-
         //create map
         map = new Map("map",{
             basemap: "oceans",
@@ -91,7 +85,7 @@ function initMap() {
         });
 
         map.on("load", function(){
-            for(var i = 1974; i <= 2014; i++){
+            for(var i = yearStart; i <= 2014; i++){
                 yearsArray.push({"x": i, "y": 0});
             }
         });
@@ -116,14 +110,12 @@ function initMap() {
             var cp1 = new ContentPane({
                 title: "Detalii",
                 content: "<b>An: </b>" + graphic.attributes.an +  "<br>" +
-                    "<b>Numar de cazuri:</b>" + graphic.attributes.nrCazuri +" <br>" +
-                    "<b>Numar de decese:</b>" +graphic.attributes.nrDecese + "<br>" +
-                    "<b>Mortalitate:</b>" + graphic.attributes.mortalitate + "%<br>" +
-                    "<b>Detalii:</b>" + graphic.attributes.detalii +"<br>"
+                    "<b>Natalitate:</b>" + graphic.attributes.natalitate + "%<br>" +
+                    "<b>Mortalitate:</b>" + graphic.attributes.mortalitate + "<br>"
             });
 
             tc.watch("selectedChildWidget", function(name, oldVal, newVal){
-                if ( newVal.title === "Detalii" ) {
+                if (newVal.title === "Detalii" ) {
                     infoWindow.resize(275, 275);
                     tc.resize();
                     chart.resize(180,180);
@@ -140,7 +132,6 @@ function initMap() {
             });
 
             tc.addChild(cp1);
-            tc.addChild(cp2);
             tc.addChild(cp3);
 
             //create the chart that will display in the third tab
@@ -156,84 +147,26 @@ function initMap() {
 
             tc.watch("selectedChildWidget", function(name, oldVal, newVal){
                 if ( newVal.title === "Situatia pe ani" ) {
-                    infoWindow.resize(500, 365);
+                    infoWindow.resize(700, 365);
                     tc.resize();
-                    secondChart.resize(450, 250);
+                    secondChart.resize(650, 250);
                 }
             });
 
-            secondChart.addPlot("default", {type: Lines, markers: true});
-            secondChart.addAxis("x", {title: "Ani", titleOrientation: "away", labelFunc: function(n){
-                var date = new Date(parseInt(n * 1000) + "");
-                return dojo.date.locale.format(date,  {
-                    selector: "date",
-                    datePattern: "y"
-                });
-            }});
+            plotData = plotJsonNatality[graphic.attributes.tara].filter(function (el) {
+                return (el.x % 2) == 0;
+            });
 
-            secondChart.addAxis("y", {vertical: true, title:"Decese"});
-            secondChart.addSeries("Numar de decese", plotJsonDeaths[graphic.attributes.tara],
-                {plot: "other", stroke: {color:"red"}, fill: "red"});
-            secondChart.addSeries("Numar de cazuri", plotJsonCases[graphic.attributes.tara],
-                {plot: "other", stroke: {color:"green"}, fill: "green"});
+            secondChart.addPlot("default", {type: "Columns", markers: true, gap: 3});
+            secondChart.addAxis("x", {title: "Ani", titleOrientation: "away"});
+            secondChart.addAxis("y", {vertical: true, fixLower: "major", fixUpper: "major", title:"Indice Natalitate"});
+
+            secondChart.addSeries("Indice natalitate", plotData);
 
             cp3.set("content", secondChart.node);
 
-            dojo.place(
-              '<div>'+
-                '<table>' +
-                '<tr>' +
-                    '<td><div style="border: solid 1px red; width: 50px"></div></td>' +
-                    '<td>Numar decese</td>' +
-                    '<td><div style="border: solid 1px green; width: 50px"></div></td>' +
-                    '<td>Numar total de cazuri</td>' +
-                '</tr>' +
-                '</table>' +
-            '</div>', cp3.containerNode);
             var legend = new Legend({ chart: secondChart }, "legend");
-            // Create the chart that will display in the second tab.
-            var c = domConstruct.create("div", {
-                id: "demoChart"
-            }, domConstruct.create("div"));
-            var chart = new Chart2D(c);
-            domClass.add(chart, "chart");
 
-            // Apply a color theme to the chart.
-            chart.setTheme(dojoxTheme);
-            chart.addPlot("default", {
-                type: "Pie",
-                radius: 70,
-                htmlLabels: true
-            });
-            tc.watch("selectedChildWidget", function(name, oldVal, newVal){
-                if ( newVal.title === "Grafic Mortalitate" ) {
-                    infoWindow.resize(275, 275);
-                    tc.resize();
-                    chart.resize(180,180);
-                }
-            });
-
-            // Calculate percent deaths/cures.
-            var total = parseInt(graphic.attributes.nrCazuri);
-            var decese = parseInt(graphic.attributes.nrDecese);
-            var vindecari = total - decese;
-            chart.addSeries("PopulationSplit", [{
-                y: decese,
-                tooltip: decese,
-                text: "Decese"
-            },
-                {
-                    y: vindecari,
-                    tooltip: vindecari,
-                    text: "Vindecari"
-                }
-            ]);
-            //highlight the chart and display tooltips when you mouse over a slice.
-            new Highlight(chart, "default");
-            new Tooltip(chart, "default");
-            new MoveSlice(chart, "default");
-
-            cp2.set("content", chart.node);
             return tc.domNode;
         }
 
@@ -286,16 +219,8 @@ function initMap() {
                 var point = new Point(item.geometry.coordinates[1], item.geometry.coordinates[0]);
                 var country = item.properties.country;
                 var year = item.properties.year;
-                /*
-                 *var details = item.properties.Detalii;
-                 *var nrOfCases = item.properties.nrCazuri;
-                 *var nrOfDeaths = item.properties.nrDecese;
-                 */
                 var mortality = item.properties.mortality;
                 var natality = item.properties.natality;
-                /*
-                 *var typeOfVirus = item.properties.virus;
-                 */
 
                 var attributes = {
                     tara: country,
@@ -307,11 +232,8 @@ function initMap() {
                 var json = {
                     title:"${tara}",
                     content:"<b>An: </b>${an} <br>" +
-                            "<b>Numar de cazuri:</b> ${nrCazuri} <br>" +
-                            "<b>Numar de decese:</b> ${nrDecese} <br>" +
                             "<b>Mortalitate:</b> ${mortalitate}% <br>" +
                             "<b>Natalitate:</b> ${natalitate}% <br>" +
-                            "<b>Detalii:</b> ${detalii}<br>" +
                             "<button>Vezi situatia pe ani</button>"
                 }
 
@@ -327,28 +249,17 @@ function initMap() {
 
                 var currentYear = parseInt(year);
                 var tempYears = [];
-                /*
-                 *if(plotJsonDeaths[country] == undefined){
-                 *    tempYears = yearsArray.slice();
-                 *    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfDeaths};
-                 *    plotJsonDeaths[country] = tempYears;
-                 *}
-                 *else{
-                 *    tempYears = plotJsonDeaths[country].slice();
-                 *    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfDeaths};
-                 *    plotJsonDeaths[country] = tempYears;
-                 *}
-                 *if(plotJsonCases[country] == undefined){
-                 *    tempYears = yearsArray.slice();
-                 *    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfCases};
-                 *    plotJsonCases[country] = tempYears;
-                 *}
-                 *else{
-                 *    tempYears = plotJsonCases[country].slice();
-                 *    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfCases};
-                 *    plotJsonCases[country] = tempYears;
-                 *}
-                 */
+
+                if(plotJsonNatality[country] == undefined){
+                    tempYears = yearsArray.slice();
+                    tempYears[currentYear - yearStart] = {"x": currentYear, "y": natality};
+                    plotJsonNatality[country] = tempYears;
+                }
+                else{
+                    tempYears = plotJsonNatality[country].slice();
+                    tempYears[currentYear - yearStart] = {"x": currentYear, "y": natality};
+                    plotJsonNatality[country] = tempYears;
+                }
 
             });
 

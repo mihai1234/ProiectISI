@@ -5,6 +5,11 @@
         "long": 13.333333
     },
     {
+        "country": "Belarus",
+        "lat": 53.0,
+        "long": 28.0
+    },
+    {
         "country": "Belgium",
         "lat": 50.833333,
         "long": 4.0
@@ -100,6 +105,11 @@
         "long": 5.75
     },
     {
+        "country": "Norway",
+        "lat": 62.0,
+        "long": 10.0
+    },
+    {
         "country": "Poland",
         "lat": 52.0,
         "long": 20.0
@@ -113,6 +123,11 @@
         "country": "Romania",
         "lat": 46.0,
         "long": 25.0
+    },
+    {
+        "country": "Russia",
+        "lat": 60.0,
+        "long": 100.0
     },
     {
         "country": "Slovak Republic",
@@ -133,6 +148,16 @@
         "country": "Sweden",
         "lat": 62.0,
         "long": 15.0
+    },
+    {
+        "country": "Turkey",
+        "lat": 39.059012,
+        "long": 34.911546
+    },
+    {
+        "country": "Ukraine",
+        "lat": 49.0,
+        "long": 32.0
     },
     {
         "country": "United Kingdom",

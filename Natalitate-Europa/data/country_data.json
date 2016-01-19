@@ -1,0 +1,9704 @@
+[
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 2.7,
+        "year": "1965"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 2.66,
+        "year": "1966"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 2.62,
+        "year": "1967"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 2.58,
+        "year": "1968"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 2.49,
+        "year": "1969"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 2.29,
+        "year": "1970"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 2.2,
+        "year": "1971"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1972"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "1973"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "1974"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "1975"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.69,
+        "year": "1976"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "1977"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1978"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1979"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.65,
+        "year": "1980"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "1981"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1982"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1983"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "1984"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1985"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1986"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1987"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1988"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1989"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "1990"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1991"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1992"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1993"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1994"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "1995"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1996"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "1997"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "1998"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "1999"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2000"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "2001"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2002"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2003"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "2004"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.41,
+        "year": "2005"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.41,
+        "year": "2006"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2007"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "2008"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2009"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2010"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2011"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2012"
+    },
+    {
+        "country": "Austria",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2013"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 2.61,
+        "year": "1965"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 2.52,
+        "year": "1966"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 2.41,
+        "year": "1967"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 2.31,
+        "year": "1968"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1969"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 2.25,
+        "year": "1970"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 2.21,
+        "year": "1971"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1972"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1973"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "1974"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1975"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1976"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1977"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.69,
+        "year": "1978"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.69,
+        "year": "1979"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1980"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1981"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "1982"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "1983"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "1984"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1985"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "1986"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "1987"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "1988"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "1989"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "1990"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1991"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.65,
+        "year": "1992"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "1993"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1994"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1995"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.59,
+        "year": "1996"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1997"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1998"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "1999"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "2000"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "2001"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.65,
+        "year": "2002"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "2003"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2004"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "2005"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "2006"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "2007"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "2008"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "2009"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "2010"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "2011"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "2012"
+    },
+    {
+        "country": "Belgium",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "2013"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1965"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1966"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1967"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1968"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1969"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.17,
+        "year": "1970"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.1,
+        "year": "1971"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1972"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.15,
+        "year": "1973"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.29,
+        "year": "1974"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.23,
+        "year": "1975"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.24,
+        "year": "1976"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.21,
+        "year": "1977"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.15,
+        "year": "1978"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.16,
+        "year": "1979"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1980"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1981"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1982"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1983"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1984"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1985"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1986"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "1987"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1988"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1989"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "1990"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1991"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "1992"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "1993"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "1994"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "1995"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "1996"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.09,
+        "year": "1997"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.11,
+        "year": "1998"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "1999"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.26,
+        "year": "2000"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "2001"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "2002"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "2003"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "2004"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2005"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2006"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.49,
+        "year": "2007"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "2008"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "2009"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "2010"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "2011"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "2012"
+    },
+    {
+        "country": "Bulgaria",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "2013"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1965"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.29,
+        "year": "1966"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.26,
+        "year": "1967"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.22,
+        "year": "1968"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.26,
+        "year": "1969"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.31,
+        "year": "1970"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.31,
+        "year": "1971"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1972"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.25,
+        "year": "1973"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.21,
+        "year": "1974"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.17,
+        "year": "1975"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.12,
+        "year": "1976"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1977"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1978"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1979"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1980"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1981"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1982"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.11,
+        "year": "1983"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.11,
+        "year": "1984"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1985"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1986"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1987"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1988"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1989"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "1990"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "1991"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1992"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "1993"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1994"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.386,
+        "year": "1995"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "1996"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "1997"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "1998"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "1999"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2000"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2001"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.22,
+        "year": "2002"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "2003"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.2,
+        "year": "2004"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "2005"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.287,
+        "year": "2006"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "2007"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "2008"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "2009"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2010"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "2011"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "2012"
+    },
+    {
+        "country": "Belarus",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "2013"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 3.133,
+        "year": "1965"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 3.01,
+        "year": "1966"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.889,
+        "year": "1967"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.779,
+        "year": "1968"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.686,
+        "year": "1969"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.61,
+        "year": "1970"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.547,
+        "year": "1971"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.491,
+        "year": "1972"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.44,
+        "year": "1973"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.393,
+        "year": "1974"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.352,
+        "year": "1975"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.323,
+        "year": "1976"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.31,
+        "year": "1977"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.312,
+        "year": "1978"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.328,
+        "year": "1979"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.354,
+        "year": "1980"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.385,
+        "year": "1981"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.415,
+        "year": "1982"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.438,
+        "year": "1983"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.453,
+        "year": "1984"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.458,
+        "year": "1985"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.456,
+        "year": "1986"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.45,
+        "year": "1987"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.442,
+        "year": "1988"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.43,
+        "year": "1989"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.411,
+        "year": "1990"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.381,
+        "year": "1991"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.337,
+        "year": "1992"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.278,
+        "year": "1993"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.206,
+        "year": "1994"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.124,
+        "year": "1995"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 2.035,
+        "year": "1996"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.945,
+        "year": "1997"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1998"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.781,
+        "year": "1999"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.714,
+        "year": "2000"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.658,
+        "year": "2001"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.613,
+        "year": "2002"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.577,
+        "year": "2003"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.549,
+        "year": "2004"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.529,
+        "year": "2005"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.514,
+        "year": "2006"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.504,
+        "year": "2007"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.496,
+        "year": "2008"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.489,
+        "year": "2009"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.481,
+        "year": "2010"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.473,
+        "year": "2011"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.464,
+        "year": "2012"
+    },
+    {
+        "country": "Cyprus",
+        "mortality": 0,
+        "natality": 1.455,
+        "year": "2013"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.18,
+        "year": "1965"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1966"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "1967"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "1968"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1969"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1970"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1971"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1972"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.31,
+        "year": "1973"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.46,
+        "year": "1974"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.43,
+        "year": "1975"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.39,
+        "year": "1976"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.34,
+        "year": "1977"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.33,
+        "year": "1978"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1979"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1980"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1981"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1982"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1983"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1984"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1985"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1986"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "1987"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "1988"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1989"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1990"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1991"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1992"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "1993"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "1994"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "1995"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.18,
+        "year": "1996"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.17,
+        "year": "1997"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.16,
+        "year": "1998"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.13,
+        "year": "1999"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.15,
+        "year": "2000"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.15,
+        "year": "2001"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.17,
+        "year": "2002"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.18,
+        "year": "2003"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "2004"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "2005"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2006"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2007"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "2008"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "2009"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "2010"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2011"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2012"
+    },
+    {
+        "country": "Czech Republic",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2013"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 2.5,
+        "year": "1965"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 2.53,
+        "year": "1966"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 2.48,
+        "year": "1967"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 2.38,
+        "year": "1968"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 2.21,
+        "year": "1969"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1970"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1971"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1972"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "1973"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1974"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1975"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1976"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "1977"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "1978"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "1979"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "1980"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1981"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.41,
+        "year": "1982"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1983"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "1984"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "1985"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1986"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1987"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "1988"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "1989"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1990"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1991"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "1992"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "1993"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.24,
+        "year": "1994"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "1995"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "1996"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "1997"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "1998"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "1999"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2000"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "2001"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2002"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2003"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2004"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2005"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "2006"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "2007"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2008"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2009"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2010"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2011"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2012"
+    },
+    {
+        "country": "Germany",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2013"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 2.61,
+        "year": "1965"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 2.62,
+        "year": "1966"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 2.35,
+        "year": "1967"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 2.12,
+        "year": "1968"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1969"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1970"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1971"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1972"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1973"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1974"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1975"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1976"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1977"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "1978"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1979"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "1980"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "1981"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1982"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "1983"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "1984"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1985"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "1986"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1987"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1988"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "1989"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "1990"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1991"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "1992"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1993"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1994"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "1995"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1996"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1997"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "1998"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1999"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "2000"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "2001"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2002"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "2003"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.78,
+        "year": "2004"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "2005"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "2006"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "2007"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "2008"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "2009"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "2010"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "2011"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "2012"
+    },
+    {
+        "country": "Denmark",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "2013"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.94,
+        "year": "1965"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.91,
+        "year": "1966"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.94,
+        "year": "1967"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.87,
+        "year": "1968"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.86,
+        "year": "1969"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.84,
+        "year": "1970"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.88,
+        "year": "1971"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.86,
+        "year": "1972"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.84,
+        "year": "1973"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.89,
+        "year": "1974"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.8,
+        "year": "1975"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.79,
+        "year": "1976"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.66,
+        "year": "1977"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.54,
+        "year": "1978"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.36,
+        "year": "1979"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.2,
+        "year": "1980"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1981"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "1982"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "1983"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1984"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1985"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1986"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1987"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1988"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "1989"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "1990"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1991"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "1992"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "1993"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.2,
+        "year": "1994"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.17,
+        "year": "1995"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.16,
+        "year": "1996"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.18,
+        "year": "1997"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.16,
+        "year": "1998"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.19,
+        "year": "1999"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "2000"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.24,
+        "year": "2001"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2002"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2003"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2004"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "2005"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2006"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2007"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2008"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2009"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "2010"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2011"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2012"
+    },
+    {
+        "country": "Spain",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2013"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1965"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1966"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1967"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1968"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1969"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.17,
+        "year": "1970"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.19,
+        "year": "1971"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1972"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1973"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1974"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1975"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1976"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1977"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1978"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1979"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1980"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1981"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1982"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.16,
+        "year": "1983"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.17,
+        "year": "1984"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1985"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.18,
+        "year": "1986"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1987"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1988"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.22,
+        "year": "1989"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1990"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "1991"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1992"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.49,
+        "year": "1993"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "1994"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "1995"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "1996"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "1997"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "1998"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "1999"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2000"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2001"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2002"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "2003"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "2004"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "2005"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "2006"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.69,
+        "year": "2007"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2008"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "2009"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2010"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "2011"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "2012"
+    },
+    {
+        "country": "Estonia",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "2013"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 2.48,
+        "year": "1965"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 2.41,
+        "year": "1966"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 2.32,
+        "year": "1967"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 2.14,
+        "year": "1968"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1969"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "1970"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1971"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "1972"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.49,
+        "year": "1973"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "1974"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1975"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "1976"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1977"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1978"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1979"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "1980"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1981"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1982"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1983"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.69,
+        "year": "1984"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1985"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1986"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.59,
+        "year": "1987"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.69,
+        "year": "1988"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1989"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.78,
+        "year": "1990"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "1991"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "1992"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1993"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "1994"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1995"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "1996"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1997"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "1998"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1999"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "2000"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "2001"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2002"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "2003"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "2004"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "2005"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "2006"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "2007"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "2008"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "2009"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "2010"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "2011"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "2012"
+    },
+    {
+        "country": "Finland",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "2013"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.84,
+        "year": "1965"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.8,
+        "year": "1966"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.75,
+        "year": "1967"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.69,
+        "year": "1968"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.62,
+        "year": "1969"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.55,
+        "year": "1970"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.47,
+        "year": "1971"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.38,
+        "year": "1972"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1973"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.18,
+        "year": "1974"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1975"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1976"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "1977"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "1978"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1979"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "1980"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "1981"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1982"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1983"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1984"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1985"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "1986"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "1987"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1988"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "1989"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1990"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1991"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1992"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1993"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1994"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1995"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1996"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1997"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.78,
+        "year": "1998"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1999"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "2000"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "2001"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "2002"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "2003"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "2004"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "2005"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "2006"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "2007"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "2008"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "2009"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "2010"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "2011"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "2012"
+    },
+    {
+        "country": "France",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "2013"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.86,
+        "year": "1965"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.78,
+        "year": "1966"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.68,
+        "year": "1967"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.6,
+        "year": "1968"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.51,
+        "year": "1969"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.44,
+        "year": "1970"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.41,
+        "year": "1971"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.2,
+        "year": "1972"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1973"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1974"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1975"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1976"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.69,
+        "year": "1977"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1978"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1979"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1980"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "1981"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.78,
+        "year": "1982"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1983"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1984"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "1985"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.78,
+        "year": "1986"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1987"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "1988"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "1989"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "1990"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "1991"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "1992"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "1993"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1994"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1995"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1996"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "1997"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1998"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1999"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "2000"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "2001"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "2002"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "2003"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "2004"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "2005"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "2006"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "2007"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "2008"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "2009"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "2010"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "2011"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "2012"
+    },
+    {
+        "country": "United Kingdom",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "2013"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.25,
+        "year": "1965"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.32,
+        "year": "1966"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.45,
+        "year": "1967"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.42,
+        "year": "1968"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.36,
+        "year": "1969"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.4,
+        "year": "1970"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.32,
+        "year": "1971"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.32,
+        "year": "1972"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1973"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.38,
+        "year": "1974"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.33,
+        "year": "1975"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.35,
+        "year": "1976"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1977"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1978"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.26,
+        "year": "1979"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.23,
+        "year": "1980"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1981"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1982"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "1983"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "1984"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "1985"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1986"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1987"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1988"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "1989"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "1990"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "1991"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "1992"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "1993"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "1994"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "1995"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "1996"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "1997"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.26,
+        "year": "1998"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.24,
+        "year": "1999"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2000"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2001"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2002"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "2003"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2004"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2005"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "2006"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2007"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "2008"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.49,
+        "year": "2009"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "2010"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2011"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2012"
+    },
+    {
+        "country": "Greece",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "2013"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.177,
+        "year": "1965"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.141,
+        "year": "1966"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.104,
+        "year": "1967"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.068,
+        "year": "1968"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.035,
+        "year": "1969"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.007,
+        "year": "1970"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.987,
+        "year": "1971"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.975,
+        "year": "1972"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.972,
+        "year": "1973"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.976,
+        "year": "1974"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.985,
+        "year": "1975"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.996,
+        "year": "1976"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.005,
+        "year": "1977"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1978"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1979"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 2.004,
+        "year": "1980"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.993,
+        "year": "1981"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1982"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1983"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1984"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "1985"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "1986"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1987"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "1988"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "1989"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "1990"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.53,
+        "year": "1991"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "1992"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "1993"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1994"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "1995"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "1996"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.69,
+        "year": "1997"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1998"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "1999"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2000"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "2001"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "2002"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.41,
+        "year": "2003"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2004"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "2005"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "2006"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "2007"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "2008"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "2009"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "2010"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "2011"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "2012"
+    },
+    {
+        "country": "Croatia",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "2013"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "1965"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "1966"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1967"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1968"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1969"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "1970"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1971"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1972"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1973"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1974"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.35,
+        "year": "1975"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.23,
+        "year": "1976"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.15,
+        "year": "1977"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1978"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1979"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "1980"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1981"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "1982"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1983"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1984"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "1985"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "1986"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "1987"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1988"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.82,
+        "year": "1989"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1990"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1991"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1992"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1993"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1994"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "1995"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "1996"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "1997"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "1998"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "1999"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2000"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2001"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2002"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2003"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "2004"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2005"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2006"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2007"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "2008"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2009"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2010"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.26,
+        "year": "2011"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2012"
+    },
+    {
+        "country": "Hungary",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2013"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 4.04,
+        "year": "1965"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.94,
+        "year": "1966"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.84,
+        "year": "1967"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.77,
+        "year": "1968"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.83,
+        "year": "1969"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.85,
+        "year": "1970"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.93,
+        "year": "1971"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.84,
+        "year": "1972"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.71,
+        "year": "1973"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.59,
+        "year": "1974"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.37,
+        "year": "1975"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.29,
+        "year": "1976"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.24,
+        "year": "1977"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.21,
+        "year": "1978"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.21,
+        "year": "1979"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.21,
+        "year": "1980"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 3.05,
+        "year": "1981"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.94,
+        "year": "1982"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.74,
+        "year": "1983"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.58,
+        "year": "1984"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.48,
+        "year": "1985"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.44,
+        "year": "1986"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.32,
+        "year": "1987"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.17,
+        "year": "1988"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1989"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.11,
+        "year": "1990"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1991"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.99,
+        "year": "1992"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1993"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "1994"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "1995"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1996"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1997"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "1998"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1999"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "2000"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "2001"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "2002"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "2003"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "2004"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "2005"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "2006"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "2007"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "2008"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "2009"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "2010"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "2011"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "2012"
+    },
+    {
+        "country": "Ireland",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "2013"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.59,
+        "year": "1965"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.57,
+        "year": "1966"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.5,
+        "year": "1967"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.49,
+        "year": "1968"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.46,
+        "year": "1969"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.38,
+        "year": "1970"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.4,
+        "year": "1971"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.35,
+        "year": "1972"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.3,
+        "year": "1973"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1974"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.17,
+        "year": "1975"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1976"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1977"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "1978"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1979"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1980"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "1981"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1982"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1983"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "1984"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "1985"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "1986"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1987"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "1988"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1989"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1990"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "1991"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "1992"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "1993"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "1994"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.19,
+        "year": "1995"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.2,
+        "year": "1996"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "1997"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "1998"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "1999"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.26,
+        "year": "2000"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2001"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2002"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "2003"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2004"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2005"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "2006"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "2007"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2008"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2009"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "2010"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2011"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2012"
+    },
+    {
+        "country": "Italy",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2013"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.23,
+        "year": "1965"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.22,
+        "year": "1966"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.23,
+        "year": "1967"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.24,
+        "year": "1968"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.3,
+        "year": "1969"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.4,
+        "year": "1970"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.41,
+        "year": "1971"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.34,
+        "year": "1972"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.22,
+        "year": "1973"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.21,
+        "year": "1974"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.18,
+        "year": "1975"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.18,
+        "year": "1976"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.14,
+        "year": "1977"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1978"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1979"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.99,
+        "year": "1980"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "1981"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1982"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.1,
+        "year": "1983"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1984"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1985"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.12,
+        "year": "1986"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.11,
+        "year": "1987"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1988"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "1989"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1990"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1991"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1992"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1993"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "1994"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "1995"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.49,
+        "year": "1996"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1997"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "1998"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "1999"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2000"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "2001"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "2002"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.26,
+        "year": "2003"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2004"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "2005"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "2006"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2007"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2008"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "2009"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "2010"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "2011"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "2012"
+    },
+    {
+        "country": "Lithuania",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "2013"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 2.42,
+        "year": "1965"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 2.34,
+        "year": "1966"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 2.24,
+        "year": "1967"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 2.12,
+        "year": "1968"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1969"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1970"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1971"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1972"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "1973"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "1974"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "1975"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "1976"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1977"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "1978"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "1979"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1980"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "1981"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.49,
+        "year": "1982"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1983"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "1984"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "1985"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1986"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "1987"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1988"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "1989"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1990"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1991"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1992"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "1993"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "1994"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "1995"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1996"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1997"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1998"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1999"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "2000"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "2001"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "2002"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "2003"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "2004"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "2005"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.65,
+        "year": "2006"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "2007"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "2008"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.59,
+        "year": "2009"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "2010"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "2011"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "2012"
+    },
+    {
+        "country": "Luxembourg",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "2013"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1965"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "1966"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "1967"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "1968"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1969"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "1970"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1971"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1972"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "1973"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1974"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "1975"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1976"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "1977"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1978"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1979"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1980"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1981"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1982"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1983"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1984"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1985"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.12,
+        "year": "1986"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.15,
+        "year": "1987"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.11,
+        "year": "1988"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1989"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1990"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1991"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1992"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1993"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "1994"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "1995"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.16,
+        "year": "1996"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.11,
+        "year": "1997"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.09,
+        "year": "1998"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.16,
+        "year": "1999"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2000"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.22,
+        "year": "2001"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.26,
+        "year": "2002"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "2003"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "2004"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2005"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "2006"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "2007"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "2008"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "2009"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2010"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "2011"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2012"
+    },
+    {
+        "country": "Latvia",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2013"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.52,
+        "year": "1965"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.33,
+        "year": "1966"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.24,
+        "year": "1967"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.12,
+        "year": "1968"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1969"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1970"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1971"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1972"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.65,
+        "year": "1973"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1974"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1975"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.21,
+        "year": "1976"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.14,
+        "year": "1977"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1978"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.1,
+        "year": "1979"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.99,
+        "year": "1980"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1981"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1982"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1983"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1984"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1985"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1986"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1987"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1988"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.1,
+        "year": "1989"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1990"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1991"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.11,
+        "year": "1992"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1993"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1994"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1995"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1996"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "1997"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1998"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1999"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "2000"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "2001"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2002"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.48,
+        "year": "2003"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "2004"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2005"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2006"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "2007"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2008"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "2009"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.36,
+        "year": "2010"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2011"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2012"
+    },
+    {
+        "country": "Malta",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2013"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 3.04,
+        "year": "1965"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 2.9,
+        "year": "1966"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 2.81,
+        "year": "1967"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 2.72,
+        "year": "1968"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 2.75,
+        "year": "1969"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 2.57,
+        "year": "1970"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 2.36,
+        "year": "1971"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 2.15,
+        "year": "1972"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1973"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1974"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1975"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "1976"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "1977"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "1978"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1979"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1980"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1981"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1982"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1983"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.49,
+        "year": "1984"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1985"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "1986"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1987"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "1988"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "1989"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "1990"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "1991"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.59,
+        "year": "1992"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "1993"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "1994"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.53,
+        "year": "1995"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.53,
+        "year": "1996"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1997"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "1998"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.65,
+        "year": "1999"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2000"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "2001"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "2002"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "2003"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2004"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "2005"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2006"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2007"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "2008"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "2009"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.79,
+        "year": "2010"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.76,
+        "year": "2011"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2012"
+    },
+    {
+        "country": "Netherlands",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "2013"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.94,
+        "year": "1965"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.9,
+        "year": "1966"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.81,
+        "year": "1967"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.75,
+        "year": "1968"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.7,
+        "year": "1969"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.5,
+        "year": "1970"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.49,
+        "year": "1971"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.38,
+        "year": "1972"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.23,
+        "year": "1973"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1974"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "1975"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1976"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1977"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1978"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "1979"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "1980"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "1981"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1982"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1983"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1984"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1985"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1986"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1987"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "1988"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "1989"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1990"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1991"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1992"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1993"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1994"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1995"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "1996"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.86,
+        "year": "1997"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1998"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "1999"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "2000"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.78,
+        "year": "2001"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "2002"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "2003"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "2004"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "2005"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "2006"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "2007"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "2008"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "2009"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "2010"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "2011"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "2012"
+    },
+    {
+        "country": "Norway",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "2013"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.52,
+        "year": "1965"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.34,
+        "year": "1966"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.33,
+        "year": "1967"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.24,
+        "year": "1968"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.2,
+        "year": "1969"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.2,
+        "year": "1970"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.25,
+        "year": "1971"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.24,
+        "year": "1972"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.26,
+        "year": "1973"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.26,
+        "year": "1974"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "1975"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.3,
+        "year": "1976"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.23,
+        "year": "1977"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.21,
+        "year": "1978"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1979"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1980"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.24,
+        "year": "1981"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.34,
+        "year": "1982"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.42,
+        "year": "1983"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.37,
+        "year": "1984"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.33,
+        "year": "1985"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.22,
+        "year": "1986"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.15,
+        "year": "1987"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1988"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1989"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1990"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1991"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1992"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1993"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1994"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "1995"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.59,
+        "year": "1996"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1997"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "1998"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "1999"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "2000"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2001"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2002"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.22,
+        "year": "2003"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "2004"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.24,
+        "year": "2005"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2006"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2007"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2008"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "2009"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2010"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2011"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2012"
+    },
+    {
+        "country": "Poland",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2013"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 3.15,
+        "year": "1965"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 3.16,
+        "year": "1966"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 3.16,
+        "year": "1967"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 3.12,
+        "year": "1968"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 3.12,
+        "year": "1969"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 3.01,
+        "year": "1970"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 3.0,
+        "year": "1971"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.86,
+        "year": "1972"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.77,
+        "year": "1973"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.7,
+        "year": "1974"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.75,
+        "year": "1975"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.82,
+        "year": "1976"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.69,
+        "year": "1977"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.45,
+        "year": "1978"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.31,
+        "year": "1979"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.25,
+        "year": "1980"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1981"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1982"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1983"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1984"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.72,
+        "year": "1985"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1986"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "1987"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "1988"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "1989"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1990"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "1991"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "1992"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "1993"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "1994"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.41,
+        "year": "1995"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "1996"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1997"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1998"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1999"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.55,
+        "year": "2000"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2001"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "2002"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2003"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "2004"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.41,
+        "year": "2005"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "2006"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "2007"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2008"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2009"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2010"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "2011"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "2012"
+    },
+    {
+        "country": "Portugal",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "2013"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "1965"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1966"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 3.66,
+        "year": "1967"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 3.63,
+        "year": "1968"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 3.19,
+        "year": "1969"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.89,
+        "year": "1970"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.67,
+        "year": "1971"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.55,
+        "year": "1972"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.44,
+        "year": "1973"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.71,
+        "year": "1974"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.59,
+        "year": "1975"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.54,
+        "year": "1976"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.57,
+        "year": "1977"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.52,
+        "year": "1978"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.49,
+        "year": "1979"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.43,
+        "year": "1980"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.36,
+        "year": "1981"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.17,
+        "year": "1982"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1983"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.26,
+        "year": "1984"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.31,
+        "year": "1985"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.39,
+        "year": "1986"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.38,
+        "year": "1987"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.3,
+        "year": "1988"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 2.22,
+        "year": "1989"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.83,
+        "year": "1990"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.59,
+        "year": "1991"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.51,
+        "year": "1992"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1993"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "1994"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1995"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "1996"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "1997"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "1998"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "1999"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2000"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2001"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2002"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2003"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.35,
+        "year": "2004"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.39,
+        "year": "2005"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "2006"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "2007"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.53,
+        "year": "2008"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "2009"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "2010"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "2011"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.53,
+        "year": "2012"
+    },
+    {
+        "country": "Romania",
+        "mortality": 0,
+        "natality": 1.53,
+        "year": "2013"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1965"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.1,
+        "year": "1966"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1967"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.99,
+        "year": "1968"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1969"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.99,
+        "year": "1970"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.03,
+        "year": "1971"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1972"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1973"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.0,
+        "year": "1974"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "1975"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.97,
+        "year": "1976"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1977"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1978"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "1979"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "1980"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "1981"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1982"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.11,
+        "year": "1983"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1984"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1985"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.15,
+        "year": "1986"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.22,
+        "year": "1987"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.12,
+        "year": "1988"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1989"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.89,
+        "year": "1990"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.732,
+        "year": "1991"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.552,
+        "year": "1992"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.385,
+        "year": "1993"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.4,
+        "year": "1994"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "1995"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.277,
+        "year": "1996"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "1997"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.24,
+        "year": "1998"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.17,
+        "year": "1999"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "2000"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2001"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2002"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2003"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "2004"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "2005"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2006"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.41,
+        "year": "2007"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.49,
+        "year": "2008"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "2009"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "2010"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "2011"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "2012"
+    },
+    {
+        "country": "Russia",
+        "mortality": 0,
+        "natality": 1.7,
+        "year": "2013"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.78,
+        "year": "1965"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.66,
+        "year": "1966"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.48,
+        "year": "1967"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.39,
+        "year": "1968"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.43,
+        "year": "1969"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.41,
+        "year": "1970"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.43,
+        "year": "1971"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.49,
+        "year": "1972"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.56,
+        "year": "1973"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.61,
+        "year": "1974"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.55,
+        "year": "1975"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.55,
+        "year": "1976"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.49,
+        "year": "1977"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.47,
+        "year": "1978"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.45,
+        "year": "1979"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.32,
+        "year": "1980"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.29,
+        "year": "1981"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1982"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1983"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.26,
+        "year": "1984"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.26,
+        "year": "1985"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.2,
+        "year": "1986"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.14,
+        "year": "1987"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1988"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1989"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1990"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1991"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1992"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1993"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "1994"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "1995"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1996"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "1997"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.37,
+        "year": "1998"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1999"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.3,
+        "year": "2000"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.2,
+        "year": "2001"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.19,
+        "year": "2002"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.2,
+        "year": "2003"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2004"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2005"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2006"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "2007"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2008"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.44,
+        "year": "2009"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.43,
+        "year": "2010"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.45,
+        "year": "2011"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2012"
+    },
+    {
+        "country": "Slovak Republic",
+        "mortality": 0,
+        "natality": 1.34,
+        "year": "2013"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.341,
+        "year": "1965"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.336,
+        "year": "1966"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.326,
+        "year": "1967"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.312,
+        "year": "1968"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.294,
+        "year": "1969"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.273,
+        "year": "1970"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.255,
+        "year": "1971"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.239,
+        "year": "1972"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.227,
+        "year": "1973"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.218,
+        "year": "1974"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.209,
+        "year": "1975"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.195,
+        "year": "1976"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.172,
+        "year": "1977"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.138,
+        "year": "1978"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.093,
+        "year": "1979"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 2.039,
+        "year": "1980"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.978,
+        "year": "1981"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1982"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.81,
+        "year": "1983"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1984"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "1985"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.67,
+        "year": "1986"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.65,
+        "year": "1987"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "1988"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "1989"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "1990"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.42,
+        "year": "1991"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1992"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.33,
+        "year": "1993"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.32,
+        "year": "1994"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.29,
+        "year": "1995"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.28,
+        "year": "1996"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "1997"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.23,
+        "year": "1998"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "1999"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.26,
+        "year": "2000"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "2001"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.21,
+        "year": "2002"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.2,
+        "year": "2003"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.25,
+        "year": "2004"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.26,
+        "year": "2005"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2006"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.38,
+        "year": "2007"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.53,
+        "year": "2008"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.53,
+        "year": "2009"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "2010"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.56,
+        "year": "2011"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "2012"
+    },
+    {
+        "country": "Slovenia",
+        "mortality": 0,
+        "natality": 1.58,
+        "year": "2013"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 2.39,
+        "year": "1965"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 2.37,
+        "year": "1966"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 2.28,
+        "year": "1967"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 2.07,
+        "year": "1968"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1969"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1970"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "1971"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "1972"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1973"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.87,
+        "year": "1974"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "1975"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1976"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.64,
+        "year": "1977"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1978"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1979"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.68,
+        "year": "1980"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.63,
+        "year": "1981"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.62,
+        "year": "1982"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.61,
+        "year": "1983"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.66,
+        "year": "1984"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.74,
+        "year": "1985"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.8,
+        "year": "1986"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.84,
+        "year": "1987"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "1988"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1989"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 2.13,
+        "year": "1990"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 2.11,
+        "year": "1991"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1992"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.99,
+        "year": "1993"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "1994"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.73,
+        "year": "1995"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.6,
+        "year": "1996"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.52,
+        "year": "1997"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1998"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.5,
+        "year": "1999"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.54,
+        "year": "2000"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.57,
+        "year": "2001"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.65,
+        "year": "2002"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.71,
+        "year": "2003"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.75,
+        "year": "2004"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.77,
+        "year": "2005"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.85,
+        "year": "2006"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.88,
+        "year": "2007"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "2008"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "2009"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "2010"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.9,
+        "year": "2011"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "2012"
+    },
+    {
+        "country": "Sweden",
+        "mortality": 0,
+        "natality": 1.91,
+        "year": "2013"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.951,
+        "year": "1965"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.874,
+        "year": "1966"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.797,
+        "year": "1967"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.721,
+        "year": "1968"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.644,
+        "year": "1969"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.563,
+        "year": "1970"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.475,
+        "year": "1971"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.375,
+        "year": "1972"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.263,
+        "year": "1973"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.14,
+        "year": "1974"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 5.008,
+        "year": "1975"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 4.872,
+        "year": "1976"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 4.738,
+        "year": "1977"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 4.608,
+        "year": "1978"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 4.483,
+        "year": "1979"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 4.361,
+        "year": "1980"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 4.239,
+        "year": "1981"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 4.114,
+        "year": "1982"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 3.982,
+        "year": "1983"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 3.844,
+        "year": "1984"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 3.704,
+        "year": "1985"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 3.563,
+        "year": "1986"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 3.427,
+        "year": "1987"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 3.3,
+        "year": "1988"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 3.183,
+        "year": "1989"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 3.078,
+        "year": "1990"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.987,
+        "year": "1991"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.906,
+        "year": "1992"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.835,
+        "year": "1993"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.772,
+        "year": "1994"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.715,
+        "year": "1995"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.661,
+        "year": "1996"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.609,
+        "year": "1997"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.557,
+        "year": "1998"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.506,
+        "year": "1999"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.454,
+        "year": "2000"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.404,
+        "year": "2001"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.356,
+        "year": "2002"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.311,
+        "year": "2003"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.27,
+        "year": "2004"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.234,
+        "year": "2005"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.202,
+        "year": "2006"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.173,
+        "year": "2007"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.147,
+        "year": "2008"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.123,
+        "year": "2009"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.101,
+        "year": "2010"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "2011"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "2012"
+    },
+    {
+        "country": "Turkey",
+        "mortality": 0,
+        "natality": 2.041,
+        "year": "2013"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.99,
+        "year": "1965"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1966"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.01,
+        "year": "1967"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.998,
+        "year": "1968"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1969"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1970"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.12,
+        "year": "1971"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1972"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1973"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.04,
+        "year": "1974"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1975"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.99,
+        "year": "1976"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.94,
+        "year": "1977"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "1978"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.96,
+        "year": "1979"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.95,
+        "year": "1980"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.93,
+        "year": "1981"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.98,
+        "year": "1982"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1983"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.09,
+        "year": "1984"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.06,
+        "year": "1985"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.08,
+        "year": "1986"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.05,
+        "year": "1987"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 2.02,
+        "year": "1988"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.92,
+        "year": "1989"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.844,
+        "year": "1990"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.773,
+        "year": "1991"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.674,
+        "year": "1992"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.563,
+        "year": "1993"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.47,
+        "year": "1994"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.397,
+        "year": "1995"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.332,
+        "year": "1996"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.27,
+        "year": "1997"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.207,
+        "year": "1998"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.121,
+        "year": "1999"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.11,
+        "year": "2000"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.085,
+        "year": "2001"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.126,
+        "year": "2002"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.172,
+        "year": "2003"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.218,
+        "year": "2004"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.213,
+        "year": "2005"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.31,
+        "year": "2006"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.345,
+        "year": "2007"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.458,
+        "year": "2008"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.46,
+        "year": "2009"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.445,
+        "year": "2010"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.459,
+        "year": "2011"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.531,
+        "year": "2012"
+    },
+    {
+        "country": "Ukraine",
+        "mortality": 0,
+        "natality": 1.506,
+        "year": "2013"
+    }
+]

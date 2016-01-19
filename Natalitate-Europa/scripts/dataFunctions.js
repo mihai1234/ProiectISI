@@ -65,21 +65,6 @@ function getCountryCoordinates(nameEn) {
 
 function getCountryColor() {
     return [0, 0, 255, 0.3];
-    /*
-     *if (virusType.trim().toUpperCase() === "Ebola virusul Sudan".toUpperCase()) {
-     *    return colorSudan;
-     *} else if (virusType.trim().toUpperCase() === "Ebola virusul Zair".toUpperCase()) {
-     *    return colorZair;
-     *} else if (virusType.trim().toUpperCase() === "Ebola virusul pădurii Taï".toUpperCase()) {
-     *    return colorTai;
-     *} else if (virusType.trim().toUpperCase() === "Ebola virusul Reston".toUpperCase()) {
-     *    return colorReston;
-     *} else if (virusType.trim().toUpperCase() === "Ebola virusul Bundibugyo".toUpperCase()) {
-     *    return colorBundibugyo;
-     *} else {
-     *    return [0,0,0,1];
-     *}
-     */
 }
 
 function getBulletSize(natality) {
@@ -91,17 +76,6 @@ function getBulletSize(natality) {
         }
         size += 2;
     }
-    /*
-     *if (mortality <= 25) {
-     *    return 15;
-     *} else if (mortality <= 50) {
-     *    return 25;
-     *} else if (mortality <= 75) {
-     *    return 35;
-     *} else {
-     *    return 45;
-     *}
-     */
 }
 
 initData();
