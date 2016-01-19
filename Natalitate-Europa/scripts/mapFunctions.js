@@ -35,7 +35,6 @@ function initMap() {
         "dojox/charting/action2d/MoveSlice",
         "dojox/charting/action2d/Tooltip",
         "dojo/number",
-//"dojox/charting/themes/Wetland",
         "dojox/charting/themes/Harmony",
         "dojox/charting/widget/Legend",
         "dojo/domReady!"
@@ -72,7 +71,7 @@ function initMap() {
 
         //create map
         map = new Map("map",{
-            basemap: "oceans",
+            basemap: "topo",
             center: [25, 46],
             infoWindow: infoWindow,
             zoom: 5
@@ -120,11 +119,6 @@ function initMap() {
                     tc.resize();
                     chart.resize(180,180);
                 }
-            });
-
-            // Display a dojo pie chart for the deaths/cures percentage.
-            var cp2 = new ContentPane({
-                title: "Grafic Mortalitate"
             });
 
             var cp3 = new ContentPane({
@@ -283,7 +277,7 @@ function initMap() {
             }
 
             var timeSlider = new TimeSlider({
-                style: "width: 78%;"
+                style: "width: 78%; float:right;"
             }, dom.byId("timeSliderDiv"));
             map.setTimeSlider(timeSlider);
 
