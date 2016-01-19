@@ -106,8 +106,6 @@ function initMap() {
             return markerSymbol;
         }
 
-
-
         function getWindowContent(graphic) {
             // Make a tab container.
             var tc = new TabContainer({

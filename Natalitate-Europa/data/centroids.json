@@ -1,142 +1,142 @@
 [
-{
-    "country": "Austria",
-    "lat": "47.333333",
-    "long": "13.333333"
-},
-{
-    "country": "Belgium",
-    "lat": "50.833333",
-    "long": "4"
-},
-{
-    "country": "Bulgaria",
-    "lat": "43",
-    "long": "25"
-},
-{
-    "country": "Croatia",
-    "lat": "45.166667",
-    "long": "15.5"
-},
-{
-    "country": "Cyprus",
-    "lat": "35",
-    "long": "33"
-},
-{
-    "country": "Czech Republic",
-    "lat": "49.75",
-    "long": "15"
-},
-{
-    "country": "Denmark",
-    "lat": "56",
-    "long": "10"
-},
-{
-    "country": "Estonia",
-    "lat": "59",
-    "long": "26"
-},
-{
-    "country": "Finland",
-    "lat": "64",
-    "long": "26"
-},
-{
-    "country": "France",
-    "lat": "46",
-    "long": "2"
-},
-{
-    "country": "Germany",
-    "lat": "51.5",
-    "long": "10.5"
-},
-{
-    "country": "Greece",
-    "lat": "39",
-    "long": "22"
-},
-{
-    "country": "Hungary",
-    "lat": "47",
-    "long": "20"
-},
-{
-    "country": "Ireland",
-    "lat": "53",
-    "long": "-8"
-},
-{
-    "country": "Italy",
-    "lat": "42.833333",
-    "long": "12.833333"
-},
-{
-    "country": "Latvia",
-    "lat": "57",
-    "long": "25"
-},
-{
-    "country": "Lithuania",
-    "lat": "56",
-    "long": "24"
-},
-{
-    "country": "Luxembourg",
-    "lat": "49.75",
-    "long": "6.166667"
-},
-{
-    "country": "Malta",
-    "lat": "35.916667",
-    "long": "14.433333"
-},
-{
-    "country": "Netherlands",
-    "lat": "52.5",
-    "long": "5.75"
-},
-{
-    "country": "Poland",
-    "lat": "52",
-    "long": "20"
-},
-{
-    "country": "Portugal",
-    "lat": "39.5",
-    "long": "-8"
-},
-{
-    "country": "Romania",
-    "lat": "46",
-    "long": "25"
-},
-{
-    "country": "Slovak Republic",
-    "lat": "48.666667",
-    "long": "19.5"
-},
-{
-    "country": "Slovenia",
-    "lat": "46.25",
-    "long": "15.166667"
-},
-{
-    "country": "Spain",
-    "lat": "40",
-    "long": "-4"
-},
-{
-    "country": "Sweden",
-    "lat": "62",
-    "long": "15"
-},
-{
-    "country": "United Kingdom",
-    "lat": "54",
-    "long": "-4"
-}
+    {
+        "country": "Austria",
+        "lat": 47.333333,
+        "long": 13.333333
+    },
+    {
+        "country": "Belgium",
+        "lat": 50.833333,
+        "long": 4.0
+    },
+    {
+        "country": "Bulgaria",
+        "lat": 43.0,
+        "long": 25.0
+    },
+    {
+        "country": "Croatia",
+        "lat": 45.166667,
+        "long": 15.5
+    },
+    {
+        "country": "Cyprus",
+        "lat": 35.0,
+        "long": 33.0
+    },
+    {
+        "country": "Czech Republic",
+        "lat": 49.75,
+        "long": 15.0
+    },
+    {
+        "country": "Denmark",
+        "lat": 56.0,
+        "long": 10.0
+    },
+    {
+        "country": "Estonia",
+        "lat": 59.0,
+        "long": 26.0
+    },
+    {
+        "country": "Finland",
+        "lat": 64.0,
+        "long": 26.0
+    },
+    {
+        "country": "France",
+        "lat": 46.0,
+        "long": 2.0
+    },
+    {
+        "country": "Germany",
+        "lat": 51.5,
+        "long": 10.5
+    },
+    {
+        "country": "Greece",
+        "lat": 39.0,
+        "long": 22.0
+    },
+    {
+        "country": "Hungary",
+        "lat": 47.0,
+        "long": 20.0
+    },
+    {
+        "country": "Ireland",
+        "lat": 53.0,
+        "long": -8.0
+    },
+    {
+        "country": "Italy",
+        "lat": 42.833333,
+        "long": 12.833333
+    },
+    {
+        "country": "Latvia",
+        "lat": 57.0,
+        "long": 25.0
+    },
+    {
+        "country": "Lithuania",
+        "lat": 56.0,
+        "long": 24.0
+    },
+    {
+        "country": "Luxembourg",
+        "lat": 49.75,
+        "long": 6.166667
+    },
+    {
+        "country": "Malta",
+        "lat": 35.916667,
+        "long": 14.433333
+    },
+    {
+        "country": "Netherlands",
+        "lat": 52.5,
+        "long": 5.75
+    },
+    {
+        "country": "Poland",
+        "lat": 52.0,
+        "long": 20.0
+    },
+    {
+        "country": "Portugal",
+        "lat": 39.5,
+        "long": -8.0
+    },
+    {
+        "country": "Romania",
+        "lat": 46.0,
+        "long": 25.0
+    },
+    {
+        "country": "Slovak Republic",
+        "lat": 48.666667,
+        "long": 19.5
+    },
+    {
+        "country": "Slovenia",
+        "lat": 46.25,
+        "long": 15.166667
+    },
+    {
+        "country": "Spain",
+        "lat": 40.0,
+        "long": -4.0
+    },
+    {
+        "country": "Sweden",
+        "lat": 62.0,
+        "long": 15.0
+    },
+    {
+        "country": "United Kingdom",
+        "lat": 54.0,
+        "long": -4.0
+    }
 ]
