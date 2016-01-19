@@ -82,8 +82,15 @@ function getCountryColor() {
      */
 }
 
-function getBulletSize(mortality) {
-    return 30;
+function getBulletSize(natality) {
+    var size = 14;
+    var limit;
+    for (limit = 1.4; limit < 10.0; limit += 0.1) {
+        if (natality < limit) {
+            return size;
+        }
+        size += 2;
+    }
     /*
      *if (mortality <= 25) {
      *    return 15;

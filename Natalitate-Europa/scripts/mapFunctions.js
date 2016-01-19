@@ -286,8 +286,6 @@ function initMap() {
                 var point = new Point(item.geometry.coordinates[1], item.geometry.coordinates[0]);
                 var country = item.properties.country;
                 var year = item.properties.year;
-                console.log(country);
-                console.log(year);
                 /*
                  *var details = item.properties.Detalii;
                  *var nrOfCases = item.properties.nrCazuri;
@@ -321,7 +319,7 @@ function initMap() {
                 template.setTitle("<b>${tara}</b>");
                 template.setContent(getWindowContent);
                 var color = getCountryColor();
-                var bulletSize = getBulletSize(mortality);
+                var bulletSize = getBulletSize(natality);
                 var graphic = new Graphic(new Point(point), createSymbol(color, bulletSize), attributes, template);
                 graphic.id = year + country;
                 map.graphics.add(graphic);
@@ -364,8 +362,8 @@ function initMap() {
         function initSlider(){
 
             map.graphics.clear();
-            var startYear = new Date("1974");
-            var endYear = new Date("1976");
+            var startYear = new Date("1965");
+            var endYear = new Date("1965");
             for(i = 0; i < graphicArray.length; i++){
                 var graphicYear = new Date(graphicArray[i].id.substr(0, 4));
                 if(graphicYear <= endYear && graphicYear >= startYear){
@@ -379,28 +377,24 @@ function initMap() {
             map.setTimeSlider(timeSlider);
 
             var timeExtent = new TimeExtent();
-            timeExtent.startTime = new Date("1/1/1974 UTC");
-            timeExtent.endTime = new Date("1/1/2014 UTC");
-            timeSlider.setThumbCount(2);
+            timeExtent.startTime = new Date("1/1/1965 UTC");
+            timeExtent.endTime = new Date("1/1/2013 UTC");
+            timeSlider.setThumbCount(1);
 
-            timeSlider.createTimeStopsByTimeInterval(timeExtent, 2, "esriTimeUnitsYears");
-            timeSlider.setThumbIndexes([0,1]);
+            timeSlider.createTimeStopsByTimeInterval(timeExtent, 3, "esriTimeUnitsYears");
+            timeSlider.setThumbIndexes([0]);
             timeSlider.setThumbMovingRate(2000);
             timeSlider.startup();
 
-            //add labels for every other time stop
+//            add labels for every other time stop
             var labels = arrayUtils.map(timeSlider.timeStops, function(timeStop, i) {
-                if ( i % 2 === 0 ) {
                     return timeStop.getUTCFullYear();
-                } else {
-                    return "";
-                }
             });
 
             timeSlider.setLabels(labels);
 
             timeSlider.on("time-extent-change", function(evt) {
-                var startValString = evt.startTime;
+                var startValString = evt.endTime;
                 var endValString = evt.endTime;
                 map.graphics.clear();
                 for(var i = 0; i < graphicArray.length; i++){
