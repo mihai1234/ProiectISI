@@ -1,7 +1,3 @@
-/**
- * Created by Andreea on 12/31/14.
- */
-
 var countriesJSON;
 var coordinatesJSON;
 

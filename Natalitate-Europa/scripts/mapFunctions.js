@@ -1,6 +1,3 @@
-/**
- * Created by Cristina on 12/30/14.
- */
 var map;
 
 var graphicArray = [];
@@ -35,7 +32,6 @@ function initMap() {
         "dojox/charting/action2d/MoveSlice",
         "dojox/charting/action2d/Tooltip",
         "dojo/number",
-//"dojox/charting/themes/Wetland",
         "dojox/charting/themes/Harmony",
         "dojox/charting/widget/Legend",
         "dojo/domReady!"
@@ -122,7 +118,6 @@ function initMap() {
                 }
             });
 
-            // Display a dojo pie chart for the deaths/cures percentage.
             var cp2 = new ContentPane({
                 title: "Grafic Mortalitate"
             });
