@@ -30,12 +30,12 @@ function makeHttpRequest(url, type,  callback) {
 }
 
 function initData() {
-    var url = "data/bigData.json";
+    var url = "data/countryData.json";
     makeHttpRequest(url, "country", initCoord);
 }
 
 function initCoord() {
-    var url = "data/coordinates.json";
+    var url = "data/centroids.json";
     makeHttpRequest(url, "coord", finishedLoading);
 }
 
@@ -47,7 +47,7 @@ function getCountriesNames(countriesJSON) {
     var i;
     var res = new Array();
     for (i = 0; i < countriesJSON.length; i++) {
-        res[i] = countriesJSON[i].taraEN;
+        res[i] = countriesJSON[i].country;
     }
 
     console.log(res);
@@ -57,38 +57,44 @@ function getCountriesNames(countriesJSON) {
 function getCountryCoordinates(nameEn) {
     var i;
     for (i = 0; i < coordinatesJSON.length; i++) {
-        if (coordinatesJSON[i].taraEN.toUpperCase() === nameEn.toUpperCase()) {
-            return [coordinatesJSON[i].Lat, coordinatesJSON[i].Long];
+        if (coordinatesJSON[i].country.toUpperCase() === nameEn.toUpperCase()) {
+            return [coordinatesJSON[i].lat, coordinatesJSON[i].long];
         }
     }
 }
 
-function getCountryColor(virusType) {
-    if (virusType.trim().toUpperCase() === "Ebola virusul Sudan".toUpperCase()) {
-        return colorSudan;
-    } else if (virusType.trim().toUpperCase() === "Ebola virusul Zair".toUpperCase()) {
-        return colorZair;
-    } else if (virusType.trim().toUpperCase() === "Ebola virusul pădurii Taï".toUpperCase()) {
-        return colorTai;
-    } else if (virusType.trim().toUpperCase() === "Ebola virusul Reston".toUpperCase()) {
-        return colorReston;
-    } else if (virusType.trim().toUpperCase() === "Ebola virusul Bundibugyo".toUpperCase()) {
-        return colorBundibugyo;
-    } else {
-        return [0,0,0,1];
-    }
+function getCountryColor() {
+    return [0, 0, 255, 0.3];
+    /*
+     *if (virusType.trim().toUpperCase() === "Ebola virusul Sudan".toUpperCase()) {
+     *    return colorSudan;
+     *} else if (virusType.trim().toUpperCase() === "Ebola virusul Zair".toUpperCase()) {
+     *    return colorZair;
+     *} else if (virusType.trim().toUpperCase() === "Ebola virusul pădurii Taï".toUpperCase()) {
+     *    return colorTai;
+     *} else if (virusType.trim().toUpperCase() === "Ebola virusul Reston".toUpperCase()) {
+     *    return colorReston;
+     *} else if (virusType.trim().toUpperCase() === "Ebola virusul Bundibugyo".toUpperCase()) {
+     *    return colorBundibugyo;
+     *} else {
+     *    return [0,0,0,1];
+     *}
+     */
 }
 
 function getBulletSize(mortality) {
-    if (mortality <= 25) {
-        return 15;
-    } else if (mortality <= 50) {
-        return 25;
-    } else if (mortality <= 75) {
-        return 35;
-    } else {
-        return 45;
-    }
+    return 30;
+    /*
+     *if (mortality <= 25) {
+     *    return 15;
+     *} else if (mortality <= 50) {
+     *    return 25;
+     *} else if (mortality <= 75) {
+     *    return 35;
+     *} else {
+     *    return 45;
+     *}
+     */
 }
 
 initData();

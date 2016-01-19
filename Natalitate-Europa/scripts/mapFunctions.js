@@ -79,9 +79,9 @@ function initMap() {
         //create map
         map = new Map("map",{
             basemap: "oceans",
-            center: [0, 37.75],
+            center: [25, 46],
             infoWindow: infoWindow,
-            zoom: 2
+            zoom: 5
         });
 
         map.infoWindow.resize(275, 275);
@@ -271,7 +271,7 @@ function initMap() {
 
         function requestData() {
             var requestHandle = Request({
-                url: "data/geo.json",
+                url: "data/geoData.json",
                 callbackParamName: "jsoncallback"
             });
             requestHandle.then(requestSucceeded, requestFailed);
@@ -283,29 +283,36 @@ function initMap() {
             var features = [];
             arrayUtils.forEach(response.features, function(item) {
 
-                var point = new Point(item.geometry.coordinates[0], item.geometry.coordinates[1]);
-                var country = item.properties.taraRO;
-                var year = item.properties.an;
-                var details = item.properties.Detalii;
-                var nrOfCases = item.properties.nrCazuri;
-                var nrOfDeaths = item.properties.nrDecese;
-                var mortality = item.properties.mortalitate;
-                var typeOfVirus = item.properties.virus;
+                var point = new Point(item.geometry.coordinates[1], item.geometry.coordinates[0]);
+                var country = item.properties.country;
+                var year = item.properties.year;
+                console.log(country);
+                console.log(year);
+                /*
+                 *var details = item.properties.Detalii;
+                 *var nrOfCases = item.properties.nrCazuri;
+                 *var nrOfDeaths = item.properties.nrDecese;
+                 */
+                var mortality = item.properties.mortality;
+                var natality = item.properties.natality;
+                /*
+                 *var typeOfVirus = item.properties.virus;
+                 */
 
                 var attributes = {
                     tara: country,
                     an: year,
-                    nrCazuri: nrOfCases,
-                    nrDecese: nrOfDeaths,
                     mortalitate: mortality,
-                    detalii: details
+                    natalitate: natality
                 };
+
                 var json = {
                     title:"${tara}",
                     content:"<b>An: </b>${an} <br>" +
                             "<b>Numar de cazuri:</b> ${nrCazuri} <br>" +
                             "<b>Numar de decese:</b> ${nrDecese} <br>" +
                             "<b>Mortalitate:</b> ${mortalitate}% <br>" +
+                            "<b>Natalitate:</b> ${natalitate}% <br>" +
                             "<b>Detalii:</b> ${detalii}<br>" +
                             "<button>Vezi situatia pe ani</button>"
                 }
@@ -313,7 +320,7 @@ function initMap() {
                 var template = new InfoTemplate();
                 template.setTitle("<b>${tara}</b>");
                 template.setContent(getWindowContent);
-                var color = getCountryColor(typeOfVirus);
+                var color = getCountryColor();
                 var bulletSize = getBulletSize(mortality);
                 var graphic = new Graphic(new Point(point), createSymbol(color, bulletSize), attributes, template);
                 graphic.id = year + country;
@@ -322,26 +329,28 @@ function initMap() {
 
                 var currentYear = parseInt(year);
                 var tempYears = [];
-                if(plotJsonDeaths[country] == undefined){
-                    tempYears = yearsArray.slice();
-                    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfDeaths};
-                    plotJsonDeaths[country] = tempYears;
-                }
-                else{
-                    tempYears = plotJsonDeaths[country].slice();
-                    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfDeaths};
-                    plotJsonDeaths[country] = tempYears;
-                }
-                if(plotJsonCases[country] == undefined){
-                    tempYears = yearsArray.slice();
-                    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfCases};
-                    plotJsonCases[country] = tempYears;
-                }
-                else{
-                    tempYears = plotJsonCases[country].slice();
-                    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfCases};
-                    plotJsonCases[country] = tempYears;
-                }
+                /*
+                 *if(plotJsonDeaths[country] == undefined){
+                 *    tempYears = yearsArray.slice();
+                 *    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfDeaths};
+                 *    plotJsonDeaths[country] = tempYears;
+                 *}
+                 *else{
+                 *    tempYears = plotJsonDeaths[country].slice();
+                 *    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfDeaths};
+                 *    plotJsonDeaths[country] = tempYears;
+                 *}
+                 *if(plotJsonCases[country] == undefined){
+                 *    tempYears = yearsArray.slice();
+                 *    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfCases};
+                 *    plotJsonCases[country] = tempYears;
+                 *}
+                 *else{
+                 *    tempYears = plotJsonCases[country].slice();
+                 *    tempYears[currentYear - 1974] = {"x": currentYear, "y": nrOfCases};
+                 *    plotJsonCases[country] = tempYears;
+                 *}
+                 */
 
             });
 
