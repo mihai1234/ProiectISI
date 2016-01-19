@@ -1,6 +1,3 @@
-/**
- * Created by Cristina on 12/30/14.
- */
 var map;
 
 var graphicArray = [];
