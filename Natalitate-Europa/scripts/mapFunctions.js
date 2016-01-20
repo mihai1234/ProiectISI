@@ -304,12 +304,17 @@ function initMap() {
                 style: "width:100%;height:100%;"
             }, domConstruct.create("div"));
 
+            var compareResult = "mica";
+            if (graphic.attributes.natalitate > averageNatality[parseInt(graphic.attributes.an) - 1965].y) {
+                compareResult = "mare";
+            }
+
             // Display attribute information.
             var cp1 = new ContentPane({
                 title: "Detalii",
                 content: "<b>An: </b>" + graphic.attributes.an +  "<br>" +
-                    "<b>Natalitate:</b>" + graphic.attributes.natalitate + "%<br>" +
-                    "<b>Mortalitate:</b>" + graphic.attributes.mortalitate + "<br>"
+                    "<b>Natalitate:</b>" + graphic.attributes.natalitate + "<br>" +
+                    "<b>Observatii:</b>" + "Natalitatea este mai " + compareResult + " decat media pe Europa" + "<br>"
             });
 
             tc.watch("selectedChildWidget", function(name, oldVal, newVal){
@@ -332,7 +337,12 @@ function initMap() {
                 id: "columnChart"
             }, domConstruct.create("div"));
 
+            var legendDiv = domConstruct.create("div", {
+                id: "legend"
+            }, domConstruct.create("div"));
+
             var secondChart = new Chart2D(columnChart);
+
             domClass.add(secondChart, "secondChart");
 
             // Apply a color theme to the chart.
@@ -340,22 +350,22 @@ function initMap() {
 
             tc.watch("selectedChildWidget", function(name, oldVal, newVal){
                 if ( newVal.title === "Situatia pe ani" ) {
-                    infoWindow.resize(700, 365);
+                    infoWindow.resize(900, 365);
                     tc.resize();
-                    secondChart.resize(650, 250);
+                    secondChart.resize(850, 250);
                 }
             });
 
             plotData = plotJsonNatality[graphic.attributes.tara].filter(function (el) {
-                return (el.x % 3) == 0;
+                return (el.x % 2) == 0;
             });
 
             averageData = averageNatality.filter(function (el) {
-                return (el.x % 3) == 0;
+                return (el.x % 2) == 0;
             });
 
             secondChart.addPlot("default",
-                    {type: "ClusteredColumns", markers: true, gap: 3,
+                    {type: "ClusteredColumns", markers: true, gap: 1,
                         animate: {
                             duration: 500,
                             easing: easing.bounceIn
@@ -363,12 +373,19 @@ function initMap() {
             secondChart.addAxis("x", {title: "Ani", titleOrientation: "away"});
             secondChart.addAxis("y", {vertical: true, fixLower: "major", fixUpper: "major", title:"Indice Natalitate"});
 
+
             secondChart.addSeries("Indice natalitate", plotData);
             secondChart.addSeries("Natalitate medie", averageData);
 
-            cp3.set("content", secondChart.node);
+            var legend = new Legend({ "chart": secondChart, "domNode": secondChart.node}, "legend");
 
-            var legend = new Legend({ chart: secondChart }, "legend");
+            /*
+             *dojo.place(
+             *  '<div id = "legend">'+
+             *'</div>', cp3.containerNode);
+             */
+
+            cp3.set("content", secondChart.node);
 
             return tc.domNode;
         }
